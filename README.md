@@ -22,53 +22,25 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## 프로젝트 소개
+- 프로젝트 이름:
+- 내용 :
+- 구분 :
+- 배포 : 
+## 1. 개발 기간
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## 2. 개발 환경
 
-## Installation
+## 3. API 명세서 및 ERD
 
-```bash
-$ npm install
-```
+## 4. 주요 기능 및 설명
+### 4-1. 회원가입
+#### 4-1-1. 회원가입 Controller
+- 코드 첨부
 
-## Running the app
+## 5. API 테스트 사진 
 
-```bash
-# development
-$ npm run start
+## 6. 어려었던 점
+### 6-1 ~~
+### 6-2 ~~~
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
-"# nest-prt" 
