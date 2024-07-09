@@ -22,6 +22,42 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## 목차
+## 환경변수
+SERVER_PORT=3000
+
+DB_HOST=DB 주소
+DB_PORT=DB 포트번호
+DB_USERNAME=DB 사용자명
+DB_PASSWORD=DB 비밀번호
+DB_NAME=DB 이름
+DB_SYNC=Entity <-> DB Table 동기화 여부 (default: true)
+
+PASSWORD_HASH_ROUNDS=로그인 비밀번호 해시 생성 강도 (default: 10)
+JWT_SECRET=JWT 생성 및 검증 키
+## Tech stacks ( 기술 스택 )
+- TypeScript, NEstjs
+## Installation
+``` npm install ```
+## Running the app
+## Test
+## 프로젝트 설치 및 실행 방법
+- 저장소를 클론합니다
+  ``` git clone ~~ ```
+- 프로젝트 디렉토리로 이동
+  ``` cd ~~~ ```
+- 필오한 패키지 설치
+  ``` npm install ```
+- 환경변수 설정
+  ```
+  port=
+  DB_USERNAME=
+  DB_ ~~ =
+  ```
+
+## 엔드포인트 설정
+  
+
 ## 프로젝트 소개
 - 프로젝트 이름:
 - 내용 :
@@ -44,3 +80,4 @@
 ### 6-1 ~~
 ### 6-2 ~~~
 
+## 참고자료
